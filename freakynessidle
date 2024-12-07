@@ -1,0 +1,20 @@
+-- uhh free source i guez
+
+-- get freaky rn
+local freakyidleanimationid = "rbxassetid://17086544068"
+
+-- Get the local player!!1!
+local player = game.Players.LocalPlayer
+
+-- Wait for the character to load
+while not player.Character do
+    wait()
+end
+
+local character = player.Character
+
+-- Wait for the Animateting, making wont intefere some skill animationz
+local animateting = character:WaitForChild("Animate")
+
+-- is time to get freaky...
+animateting.idle.Animation1.AnimationId = freakyidleanimationid
