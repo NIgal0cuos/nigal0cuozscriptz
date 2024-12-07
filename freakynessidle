@@ -20,7 +20,7 @@ local animateting = character:WaitForChild("Animate")
 animateting.idle.Animation1.AnimationId = freakyidleanimationid
 
 -- anim chenger
-local animationId = 18903642853
+local animationId = 12447707844
 
 
 local player = game.Players.LocalPlayer
@@ -54,7 +54,7 @@ AnimAnim.AnimationId = "18715842262"
 local Anim = Humanoid:LoadAnimation(AnimAnim)
 
 
-local startTime = 0.4
+local startTime = 0.5
 
 
 Anim:Play()
@@ -65,7 +65,7 @@ Anim.TimePosition = startTime
 
 Anim:AdjustSpeed(1)
 
-delay(2.99, function()
+delay(69999, function()
 
     Anim:Stop()
 
