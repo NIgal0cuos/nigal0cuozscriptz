@@ -49,7 +49,7 @@ end
 
 local AnimAnim = Instance.new("Animation")
 
-AnimAnim.AnimationId = "17097409396"
+AnimAnim.AnimationId = "18715842262"
 
 local Anim = Humanoid:LoadAnimation(AnimAnim)
 
