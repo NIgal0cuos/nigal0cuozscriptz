@@ -1,7 +1,7 @@
--- uhh free source i guez
+-- uhh free source i guez, like if u wanna make your own configs
 
 -- get freaky rn
-local freakyidleanimationid = "rbxassetid://17086544068"
+local freakyidleanimationid = "rbxassetid://17266410350"
 
 -- Get the local player!!1!
 local player = game.Players.LocalPlayer
